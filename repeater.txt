@@ -1,0 +1,7 @@
+speak "Enter a phrase to repeat:"
+let phrase equals listen
+speak "How many times to repeat it?"
+let count equals listen
+let repeated equals repeat(phrase, count)
+speak "Here is your repeated phrase:"
+speak repeated 

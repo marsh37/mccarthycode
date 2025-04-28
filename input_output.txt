@@ -1,0 +1,5 @@
+speak "The man stood in the road. He spoke."
+speak "What is your name?"
+let name equals listen
+speak "The man nodded. He said:"
+speak concatenate "Hello, " concatenate name 

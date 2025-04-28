@@ -1,0 +1,2 @@
+speak "The world was dark and cold. The man spoke."
+speak "Hello, world" 

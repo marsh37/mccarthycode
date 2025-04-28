@@ -1,0 +1,7 @@
+speak "Enter first number:"
+let num1 equals listen
+speak "Enter second number:"
+let num2 equals listen
+let product equals multiply num1 multiply num2
+speak "The product is:"
+speak product 

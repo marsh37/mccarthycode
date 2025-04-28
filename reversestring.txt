@@ -1,0 +1,5 @@
+speak "Enter a string to reverse:"
+let input equals listen
+let reversed equals reverse(input)
+speak "The reversed string is:"
+speak reversed 
